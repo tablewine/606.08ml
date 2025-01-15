@@ -1,7 +1,6 @@
 # 
-
-  the faces of those
-  who love to drink–
-  a flash of lighting
-  
-  - Matsuo Bashō
+<p>the faces of those </p>
+<p>who love to drink–</p>
+<p>a flash of lighting</p>
+<br>   
+<p>- Matsuo Bashō</p>  
