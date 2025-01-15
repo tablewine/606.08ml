@@ -7,7 +7,10 @@
 <br>
 Ilford HP5 film & Ilford Multigrade RC paper developed & processed in white wine
 <br>(Berger - Grüner Veltliner 2023, 2024)
-Contact for inquiries
- <br><div id="clear">&#127863;</div>
+<br>
+<br>Contact for inquiries
+<br>
+<br><div id="clear">&#127863;</div>
+<br>
 
 ![darkroom](darkroom.jpg)
