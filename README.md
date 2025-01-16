@@ -10,7 +10,7 @@ Ilford HP5 film & Ilford Multigrade RC paper developed & processed in white wine
 <br>
 <br>Contact for inquiries
 <br>
-<br><div id="clear">&#127863;</div>
 <br>
 
 ![darkroom](darkroom.jpg)
+<br><div id="clear">&#127863;</div>
