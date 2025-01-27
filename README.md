@@ -1,7 +1,7 @@
 # 
 <br>the faces of those
 <br>who love to drink–
-<br>a flash of lighting
+<br>a flash of lightning
 <br>   
 <p>- Matsuo Bashō</p>  
 <br>
